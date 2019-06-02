@@ -1,0 +1,1 @@
+When I run main and type in a move such as "auto white", I get the error that nummoves is null, despite me debugging and checking that it does indeed contain values. I am unsure why it is returning null. I have attempted to debug, write test cases, and put print statements, yet I am still unable to find the root of my error.
